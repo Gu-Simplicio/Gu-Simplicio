@@ -1,4 +1,4 @@
-# -sGustavo Silva Simplico
+# Gustavo Silva Simplico
 **`Fullstack developer`**
 
 Hello, I'm Gustavo, a 17 years old developer that loves to program back-end and likes front-end. <br>
