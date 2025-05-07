@@ -7,7 +7,7 @@ Here's my instagram: [@gu_simplicio](https://www.instagram.com/gu_simplicio/)
 
 ---
 
-## languages and technologies
+## languages and technologies      
 
 <img
     align="left"
@@ -86,4 +86,24 @@ Here's my instagram: [@gu_simplicio](https://www.instagram.com/gu_simplicio/)
     width="38px"
     style="padding-left: 20px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+<br>
+<br>
+<br>
+<br>
+
+### my statistics
+
+<img
+    align="left"
+    alt="Github stats"
+    width="350"
+    src="https://github-readme-stats.vercel.app/api?username=Gu-Simplicio&show_icons=true&theme=dark&include_all_commits=true"
+/>
+<img
+    align="left"
+    width="250"
+    style="padding-left: 50px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gu-Simplicio&theme=dark&layout=compact"
 />
