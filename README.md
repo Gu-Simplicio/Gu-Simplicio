@@ -87,7 +87,6 @@ Here's my instagram: [@gu_simplicio](https://www.instagram.com/gu_simplicio/)
     style="padding-left: 20px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-<<<<<<< HEAD
 
 <br>
 <br>
@@ -100,7 +99,7 @@ Here's my instagram: [@gu_simplicio](https://www.instagram.com/gu_simplicio/)
     align="left"
     alt="Github stats"
     width="350"
-    src="https://github-readme-stats.vercel.app/api?username=Gu-Simplicio&show_icons=true&theme=dark&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=Gu-Simplicio&show_icons=true&theme=dark"
 />
 <img
     align="left"
@@ -108,5 +107,3 @@ Here's my instagram: [@gu_simplicio](https://www.instagram.com/gu_simplicio/)
     style="padding-left: 50px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gu-Simplicio&theme=dark&layout=compact"
 />
-=======
->>>>>>> deb04df4f447e6309c0699fcd7f2af41927985ca
