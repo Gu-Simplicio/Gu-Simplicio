@@ -1,7 +1,7 @@
-# -sGustavo Silva Simplico
+# Gustavo Silva Simplico
 **`Fullstack developer`**
 
-Hello, I'm Gustavo, a 17 years old developer that loves to program back-end and likes front-end. <br>
+Hello, I'm Gustavo, a 17 years old developer that like to program back-end and likes front-end. <br>
 I'm a brazilian student in a course of informatic for internet on Etec de Praia Grande, in Praia Grande - SP. <br>
 Here's my instagram: [@gu_simplicio](https://www.instagram.com/gu_simplicio/)
 
@@ -87,6 +87,7 @@ Here's my instagram: [@gu_simplicio](https://www.instagram.com/gu_simplicio/)
     style="padding-left: 20px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+<<<<<<< HEAD
 
 <br>
 <br>
@@ -107,3 +108,5 @@ Here's my instagram: [@gu_simplicio](https://www.instagram.com/gu_simplicio/)
     style="padding-left: 50px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gu-Simplicio&theme=dark&layout=compact"
 />
+=======
+>>>>>>> deb04df4f447e6309c0699fcd7f2af41927985ca
