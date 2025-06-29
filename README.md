@@ -4,6 +4,7 @@
 Hello, I'm Gustavo, a 17 years old developer that like to program back-end and likes front-end. <br>
 I'm a brazilian student in a course of informatic for internet on Etec de Praia Grande, in Praia Grande - SP. <br>
 Here's my instagram: [@gu_simplicio](https://www.instagram.com/gu_simplicio/)
+Here's my linkedin: [Gustavo Silva Simplicio](www.linkedin.com/in/gustavo-silva-simplicio/)
 
 ---
 
