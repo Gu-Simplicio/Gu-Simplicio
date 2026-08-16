@@ -1,5 +1,6 @@
 import Header from "./components/Header/Header";
 import SectionOne from "./components/Sections/SectionOne";
+import SectionThree from "./components/Sections/SectionThree";
 import SectionTwo from "./components/Sections/SectionTwo";
 
 function App(){
@@ -10,6 +11,7 @@ function App(){
 
         <SectionOne/>
         <SectionTwo/>
+        <SectionThree/>
     </div>
   )
 }
