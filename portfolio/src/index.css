@@ -17,5 +17,6 @@ body {
 
 section {
   width: 100dvw;
+  padding-top: 5rem;
   min-height: 100dvh;
 }
