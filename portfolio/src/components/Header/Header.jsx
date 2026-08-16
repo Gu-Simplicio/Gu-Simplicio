@@ -24,6 +24,8 @@ function Header(){
                 
                 {/* links of header */}
                 <nav>
+                    <HeaderLink txt="Sobre mim" ref="#"/>
+                    |
                     <HeaderLink txt="Projetos" ref="#projetos"/>
                     |
                     <HeaderLink txt="Educação" ref="#educacao"/>
