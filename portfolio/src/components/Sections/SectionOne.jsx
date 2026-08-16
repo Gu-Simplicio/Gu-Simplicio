@@ -39,13 +39,16 @@ function SectionOne() {
                     </h5>
                 </div>
                 <div> {/* left-down */}
-                    <a href="https://github.com/Gu-Simplicio" target="_blank" title="Visite meu Github">
-                        <GithubIcon />
-                    </a>
+                    <div className="flex gap-10 pt-5">
+                        <a href="https://github.com/Gu-Simplicio" target="_blank" title="Visite meu Github">
+                            <GithubIcon />
+                        </a>
 
-                    <a href="https://linkedin.com/in/gustavo-silva-simplicio" target="_blank" title="Visite meu Linkedin">
-                        <LinkedinIcon/>
-                    </a>
+                        <a href="https://linkedin.com/in/gustavo-silva-simplicio" target="_blank" title="Visite meu Linkedin">
+                            <LinkedinIcon/>
+                        </a>
+                    </div>
+                    { /* space to button 'download CV' */ }
                 </div>
             </div>            
             <div className="w-1/2 "> {/* right */}
