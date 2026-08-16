@@ -1,8 +1,16 @@
+import Header from "./components/Header/Header";
+import SectionOne from "./components/Sections/SectionOne";
+import SectionTwo from "./components/Sections/SectionTwo";
+
 function App(){
   return (
-    <main className="w-screen h-screen text-center font-bold text-xl bg-red-500">  
-      <h1>Hello, World</h1>
-    </main>
+    <div className="
+      w-screen min-h-screen">
+        <Header /> 
+
+        <SectionOne/>
+        <SectionTwo/>
+    </div>
   )
 }
 
