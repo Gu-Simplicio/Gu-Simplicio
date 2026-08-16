@@ -18,7 +18,7 @@ function Header(){
             {/* PC SCREEN */}
             <div className="md:flex hidden
                     flex items-center justify-end
-                    w-screen py-2 px-4
+                    w-screen py-5 px-4
                     text-xl font-light
                     bg-[var(--bg-color2)]">
                 
