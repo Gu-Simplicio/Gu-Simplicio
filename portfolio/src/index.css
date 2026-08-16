@@ -22,6 +22,6 @@ body {
 section {
   width: 100dvw;
   min-height: 100dvh;
-  padding-top: 5rem;
+  padding: 5rem 2.5rem 0 2.5rem;
   border-bottom: var(--txt-color) solid;
 }
