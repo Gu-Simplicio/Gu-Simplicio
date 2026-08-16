@@ -1,6 +1,6 @@
 function SectionOne() {
     return (
-        <section className="flex align-center justify-between px-5">
+        <section className="flex align-center justify-between">
             <div className="w-1/2"> {/* left */}
                 <div> {/* left-top */}
                     <h1 className="
