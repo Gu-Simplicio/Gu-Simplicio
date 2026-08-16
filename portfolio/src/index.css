@@ -7,6 +7,9 @@
   --bg-color2: #282929;
   --btn-color: #767676;
 }
+*{
+  scroll-behavior: smooth;
+}
 
 /* insert the color variables on body */
 body {
