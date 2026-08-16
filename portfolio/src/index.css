@@ -10,6 +10,7 @@
 
 /* insert the color variables on body */
 body {
+  overflow-x: hidden;
   color: var(--txt-color);
   transition: .45s ease-in-out;
   background-color: var(--bg-color);
@@ -17,7 +18,7 @@ body {
 
 section {
   width: 100dvw;
-  padding-top: 5rem;
   min-height: 100dvh;
+  padding-top: 5rem;
   border-bottom: var(--txt-color) solid;
 }
