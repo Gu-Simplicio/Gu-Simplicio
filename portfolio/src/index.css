@@ -14,3 +14,8 @@ body {
   transition: .45s ease-in-out;
   background-color: var(--bg-color);
 }
+
+section {
+  width: 100dvw;
+  min-height: 100dvh;
+}
