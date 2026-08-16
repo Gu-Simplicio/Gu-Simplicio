@@ -1,4 +1,5 @@
 import STACKS from "../../model/stacks";
+import GithubIcon from "../icons/GitHubIcon";
 
 function StackList() {
     return (
@@ -7,7 +8,7 @@ function StackList() {
                 STACKS.map((stack) => (
                     <li key={stack.id} className="
                                             border py-2 px-3
-                                            flex flex-col items-center justify-center
+                                            flex flex-col items-ce center
                                             text-center font-semibold">
                         
                         <p>
@@ -37,11 +38,13 @@ function SectionOne() {
                     </h5>
                 </div>
                 <div> {/* left-down */}
-                    
+                    <a href="https://github.com/Gu-Simplicio" target="_blank" title="Visite meu Github">
+                        <GithubIcon />
+                    </a>
                 </div>
             </div>            
-            <div className="w-1/2"> {/* right */}
-                <div className="flex flex-col pt-15"> {/* right-top */}
+            <div className="w-1/2 "> {/* right */}
+                <div className="flex flex-col gap-15 pt-15 pb-15"> {/* right-top */}
                     <h1 className="
                             text-[3.5rem] font-semibold text-end">
                         Sobre mim
