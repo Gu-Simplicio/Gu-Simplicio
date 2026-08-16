@@ -1,3 +1,25 @@
+import STACKS from "../../model/stacks";
+
+function StackList() {
+    return (
+        <ul className="mt-10 flex gap-3 flex-wrap justify-end">
+            {
+                STACKS.map((stack) => (
+                    <li key={stack.id} className="
+                                            border py-2 px-3
+                                            flex flex-col items-center justify-center
+                                            text-center font-semibold">
+                        
+                        <p>
+                            {stack.name}
+                        </p>
+                    </li>
+                ))
+            }
+        </ul>
+    )
+}
+
 function SectionOne() {
     return (
         <section className="flex align-center justify-between">
@@ -27,13 +49,14 @@ function SectionOne() {
                     <p className="
                         w-87/100 self-end
                         text-end text-[1.5rem]">
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse totam dolore similique, numquam, perspiciatis facere voluptatibus perferendis sed sint ut et tempora dolor molestiae deserunt aliquam eos. Eos, illum quasi.
+                        Sou um estudante de Análise em Desenvolvimento de Sistemas formado em Informática para Internet, sempre fui apaixonado por tecnologia e busco construir soluções escaláveis, inteligentes e que, principalmente, resolvam os problemas das pessoas
                     </p>
                 </div>
-                <div> {/* right-down */}
-                    Lista de stacks aparecendo
+                <div className="flex justify-end"> {/* right-down */}
+                    <StackList />
                 </div>
             </div>
+
         </section>
     )
 }
