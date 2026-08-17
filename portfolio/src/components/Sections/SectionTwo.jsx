@@ -20,7 +20,7 @@ function SectionTwo(){
                         <div className="
                             flex w-1/2">
                             <img 
-                                src="" alt="" 
+                                src={`./projectsImages/${project.name}.png`} alt="" 
                                 className=" w-[150px] h-[150px] bg-[var(--btn-color)]"/>
 
                             <h2 className="pl-3 text-[2rem] font-semibold">
