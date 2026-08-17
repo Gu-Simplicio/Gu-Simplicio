@@ -31,6 +31,13 @@ function EducationCard(props){
 function SectionThree() {
     return (
         <section id="educacao">
+            <h1 className="
+                    pl-5
+                    text-[3.5rem] font-semibold 
+                    border-b">
+                Educação
+            </h1>
+
             {
                 EDUCATION.map((education) => (
                     <EducationCard key={education.id} education={education} />
