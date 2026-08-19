@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+/* default colors */
+:root {
+  --txt-color: #ffffff;
+  --bg-color: #1A1A1A;
+  --bg-color2: #282929;
+  --btn-color: #767676;
+}
+*{
+  scroll-behavior: smooth;
+}
+
+/* insert the color variables on body */
+body {
+  overflow-x: hidden;
+  color: var(--txt-color);
+  transition: .45s ease-in-out;
+  background-color: var(--bg-color);
+}
+
+section {
+  width: 100dvw;
+  min-height: 100dvh;
+  padding: 5rem 2.5rem 0 2.5rem;
+  border-bottom: var(--txt-color) solid;
+}
